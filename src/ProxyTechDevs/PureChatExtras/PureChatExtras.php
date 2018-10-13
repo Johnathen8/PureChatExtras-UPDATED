@@ -55,3 +55,4 @@ class PureChatExtras extends PluginBase {
 				return true;
 		}
 	}
+}
