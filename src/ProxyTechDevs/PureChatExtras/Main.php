@@ -7,7 +7,7 @@ use pocketmine\command\CommandSender;
 use pocketmine\command\PluginCommand;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
-class PureChatExtras extends PluginBase {
+class Main extends PluginBase {
 	/** @var PureChat $pureChat */
 	private $pureChat;
 	public function onEnable() {
