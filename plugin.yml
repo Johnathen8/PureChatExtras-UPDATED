@@ -1,5 +1,5 @@
 name: PureChatExtras
-main: ProxyTechDevs\PureChatExtras\PureChatExtras
+main: ProxyTechDevs\PureChatExtras
 version: 1.0.0
 api:
  - 3.0.0
