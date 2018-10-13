@@ -1,13 +1,13 @@
 <?php
 declare(strict_types=1);
-namespace ProxyTechDevs\PureChatExtras;
+namespace ProxyTechDevs\PureChatExtras\PureChatExtras;
 use _64FF00\PureChat\PureChat;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\command\PluginCommand;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
-class Main extends PluginBase {
+class PureChatExtras extends PluginBase {
 	/** @var PureChat $pureChat */
 	private $pureChat;
 	public function onEnable() {
